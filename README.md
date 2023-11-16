@@ -1,3 +1,4 @@
+![Screenshot from 2023-11-16 13-08-24](https://github.com/amir-dani/dani_criptor/assets/150056352/5a997aee-d03a-483e-8019-b5960241d048)
 # dani_criptor
 
 This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section. It can scan for 100k words in 5 seconds.
