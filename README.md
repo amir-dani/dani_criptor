@@ -6,10 +6,15 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 ## Types of Hashes available #️⃣
 
 1- md5
+
 2- sha1
+
 3- sha224
+
 4- sha256
+
 5- sha384
+
 6- sha512
 
 ## Supported OS 💻
