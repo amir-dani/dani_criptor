@@ -4,16 +4,12 @@
 This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section. It can scan for 100k words in 5 seconds.
 
 ## Types of Hashes available #️⃣
+
 1- md5
-
 2- sha1
-
 3- sha224
-
 4- sha256
-
 5- sha384
-
 6- sha512
 
 ## Supported OS 💻
@@ -26,7 +22,9 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
-## Install and start The tool 
+## Install and start The tool
+
+`python3 -r  install repuirements.txt`
 
 `git clone `
 
