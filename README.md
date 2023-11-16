@@ -26,7 +26,7 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 
 `python3 -r  install repuirements.txt`
 
-`git clone `
+`git clone https://github.com/amir-dani/dani_criptor`
 
 `cd dani_criptor`
 
